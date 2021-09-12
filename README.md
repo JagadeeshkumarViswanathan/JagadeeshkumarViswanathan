@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JagadeeshkumarViswanathan
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on "Python" & "Pandas"
 - 📫 How to reach me @+91 9080802627 & 17bmc019@mcet.in
 
 <!---
