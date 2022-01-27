@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JagadeeshkumarViswanathan
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 🌱 Expert in Python and Pandas
 - 💞️ I’m looking to collaborate on "Python" & "Pandas"
-- 📫 How to reach me @+91 9080802627 & 17bmc019@mcet.in
+- 📫 How to reach me @+91 9080802627 & jagadeeshviswa22@gmail.com
 
 <!---
 JagadeeshkumarViswanathan/JagadeeshkumarViswanathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
